@@ -1,0 +1,1 @@
+Open with Live Server in index.html to see all functions of Comfy-house shopping cart app.
